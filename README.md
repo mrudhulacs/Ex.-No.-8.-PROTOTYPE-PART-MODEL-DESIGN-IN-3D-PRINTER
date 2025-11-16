@@ -47,8 +47,16 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1851" height="980" alt="image" src="https://github.com/user-attachments/assets/44c05425-897c-479e-ad46-9826336d19d0" />
+
+
+<img width="1854" height="984" alt="image" src="https://github.com/user-attachments/assets/dfc4ff1a-91a9-433a-9503-384449effb02" />
+
+
+
+
+### Name : CHITTOOR SARAVANA MRUDHULA
+### Register Number : 212224040056
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
